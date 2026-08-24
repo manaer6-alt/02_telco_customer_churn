@@ -1,3 +1,5 @@
+**English** | [Русский](README_RU.md)
+
 # Telco Customer Churn Prediction
 
 An end-to-end customer churn project built around reproducible preprocessing and cost-aware threshold selection. The goal is not only to rank customers by churn risk, but to choose an intervention rule that can be connected to retention costs.
